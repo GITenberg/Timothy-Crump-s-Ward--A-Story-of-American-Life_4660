@@ -1,0 +1,37 @@
+_repo: Timothy-Crump-s-Ward--A-Story-of-American-Life_4660
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alger, Horatio
+    aliases:
+    - Starr, Julian
+    - Putnam, Arthur Lee
+    - Preston, Charles F.
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Foundlings -- Fiction'
+- !lcsh 'Kidnapping -- Fiction'
+- !lcsh 'Counterfeits and counterfeiting -- Fiction'
+- !lcsh 'Philadelphia (Pa.) -- History -- 19th century -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'New York (N.Y.) -- History -- 1775-1865 -- Fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+- GITenberg
+title: 'Timothy Crump''s Ward: A Story of American Life'
+url: http://www.gutenberg.org/ebooks/4660
